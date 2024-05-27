@@ -1,3 +1,4 @@
 LIST OF EBOOKS
 
-Design Patterns by Alexander Shvets
+Design Patterns by Alexander Shvets (ES,EN)
+Asterisk: Definitive Guide
